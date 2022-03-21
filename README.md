@@ -3,6 +3,7 @@ A remake of Arkanoid in 2.5D made in the Unreal Engine 4.27 with Blueprints, No 
 Sounds and background patterns from the original have been used, from Spriters Resource and Sounds Resource, and are NOT meant for commercial application. They will have to be removed/replaced if you want to use this as a commercial project of any kind.
 Links to backgrounds and sounds used:
 https://www.spriters-resource.com/snes/arkanoiddohitagain/sheet/50496/
+and
 https://www.sounds-resource.com/nes/arkanoid/sound/3698/
 
 I created this project to learn programming with Unreal Blueprints, and wanted it to be as exact to the original as possible. I have since abandoned the project, as I was happy with the 'demo' that I created for it. I am now making it available to the public, to do with as they please. It is licensed as "GNU Affero General Public License v3.0", so that anyone can work with it, but not change the work license. Open source matters!
